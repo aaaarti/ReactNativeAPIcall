@@ -2,7 +2,7 @@
   "id": 10001,
     "name": "arti",
     "rollno":"1",
-    "attend":""
-  
+    "attend":"",
+    "url": "https://aaaarti.github.io/ReactNativeAPIcall/mydata.json/arti"
   
   }]
