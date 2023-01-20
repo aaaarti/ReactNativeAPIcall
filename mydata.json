@@ -5,4 +5,13 @@
     "attend":"",
     "url": "https://aaaarti.github.io/ReactNativeAPIcall/mydata.json/arti"
   
-  }]
+  },
+  {
+    "id": 10002,
+      "name": "riya",
+      "rollno":"2",
+      "attend":"",
+      "url": "https://aaaarti.github.io/ReactNativeAPIcall/mydata.json/riya"
+    
+    }
+]
